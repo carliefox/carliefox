@@ -1,0 +1,31 @@
+p{color: blue;}
+h1{color: blue}
+h2{color: darkcyan;}
+h3{color: darkcyan;}
+ul{color: navy;}
+li{color: navy;}
+
+h1{background-color:gray;
+margin: 1rem ;
+padding: 1rem }
+
+h1{font-size: x-large;
+font-size: 18px;
+font-size: 130%;
+font-size: 3em;
+font-size: 3rem;}
+
+h1{font-weight: 600;
+font-weight: bold;}
+h1{text-align: center;}
+
+h2{background-color:burlywood;
+margin: 1rem;
+padding: 1rem;
+text-align: center;}
+h2{font-weight: 500;
+font-weight: bold;}
+
+
+h2{font-family: 'Times New Roman', Times, serif;}
+p{font-family: Arial, Helvetica, sans-serif;}
