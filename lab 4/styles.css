@@ -1,0 +1,39 @@
+body{background-color:rgb(6,6,56);}
+body{color:rgb(255, 255, 255);}
+body{font-family: 'Courier New', Courier, monospace;}
+body{margin: 0%;}
+
+header{background-color:rgb(25, 64, 100);}
+header{padding: 2rem;}
+header a{color:rgb(66,211,221);}
+header{text-align: center;}
+
+main{padding: 1rem;}
+.home-content div {display: inline-block;}
+.home-content div{width: 60%;}
+
+.home-content img{width: 38%;}
+.home-content img{vertical-align: top;}
+
+.jellies{background-color: rgb(19,107,114);}
+.jellies{padding: 1rem;}
+.jellies{display: inline-block;}
+.jellies{margin: .5rem;}
+.jellies{vertical-align: top;}
+.jellies{width: 29%;}
+
+.whales{background-color: rgb(19,107,114);}
+.whales{padding: 1rem;}
+.whales{display: inline-block;}
+.whales{margin: .5rem;}
+.whales{vertical-align: top;}
+.whales{width: 46%;}
+
+.creatures{background-color: rgb(19,107,114);}
+.creatures{padding: 1rem;}
+.creatures{display: inline-block;}
+.creatures{margin: .5rem;}
+.creatures{vertical-align: top;}
+.creatures{width: 29%;}
+
+img{max-width: 100%;}
