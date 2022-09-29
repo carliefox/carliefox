@@ -1,0 +1,13 @@
+body{background-image:url(https://www.limitedpapers.com/itemimageslarge/paper-linen-SageGreen.jpg);}
+body{background-repeat: repeat;}
+body{background-position: top;}
+body{background-size: cover;}
+
+header>nav>a{color: darkgreen;}
+header>nav>a:hover{background-color: teal;}
+header>nav>a:hover{color: black;}
+header>nav>a:hover{border: 2px solid darkgreen;}
+header>nav>a{border: 1px solid transparent;}
+
+h1{color: darkgreen;}
+p{color: darkgreen;}
