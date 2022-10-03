@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1619.04 932.14">
+  <defs>
+    <style>
+      .b, .c, .d {
+        fill: #fff;
+      }
+
+      .e {
+        letter-spacing: -.03em;
+      }
+
+      .c {
+        font-family: SourceSerifRoman-Semibold, 'Source Serif Variable';
+        font-size: 360.86px;
+        font-variation-settings: 'wght' 600;
+        font-weight: 700;
+      }
+
+      .f {
+        letter-spacing: 0em;
+      }
+
+      .g {
+        letter-spacing: -.03em;
+      }
+
+      .h {
+        letter-spacing: -.02em;
+      }
+
+      .i {
+        letter-spacing: -.01em;
+      }
+
+      .j {
+        letter-spacing: -.02em;
+      }
+
+      .d {
+        font-family: SourceSerifRoman-Bold, 'Source Serif Variable';
+        font-size: 159.73px;
+        font-variation-settings: 'wght' 700;
+      }
+
+      .k {
+        letter-spacing: 0em;
+      }
+
+      .l {
+        letter-spacing: -.01em;
+      }
+
+      .m {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <text/>
+  <text class="d" transform="translate(575.7 650.98) scale(1.1 1)"><tspan class="i" x="0" y="0">P</tspan><tspan x="95.68" y="0">h</tspan><tspan class="m" x="194.24" y="0">o</tspan><tspan class="k" x="284.01" y="0">t</tspan><tspan x="340.55" y="0">og</tspan><tspan class="h" x="517.53" y="0">r</tspan><tspan class="j" x="587.98" y="0">a</tspan><tspan class="f" x="669.6" y="0">p</tspan><tspan class="e" x="766.72" y="0">h</tspan><tspan x="860.48" y="0">y</tspan></text>
+  <text/>
+  <text class="c" transform="translate(639.36 493.13) scale(.95 1)"><tspan class="g" x="0" y="0">T</tspan><tspan class="l" x="210.74" y="0">r</tspan><tspan x="365.55" y="0">ee</tspan></text>
+  <g>
+    <path class="b" d="M510.6,209.15c-16.19-7.03-33.01-10.93-49.91-12C451.22,86.18,381.07,0,295.91,0S134.39,94,130.22,212.05c-16.26,.81-32.38,4.56-47.76,11.53C7.22,257.67-21.82,355.85,17.6,442.86s132.38,129.92,207.62,95.83c3.51-1.59,6.91-3.32,10.21-5.18l-74.77-129.5,14.65-8.46,74.31,128.71c8.75-6.55,16.58-14.12,23.46-22.54v-208.66h29.73v198.19c8.47,11.98,18.57,22.73,30.15,31.86l65.18-130.66,15.14,7.55-66.3,132.91c5.95,3.67,12.21,6.95,18.78,9.81,82.85,35.97,182.43-9.54,222.43-101.65,40-92.11,5.26-195.95-77.59-231.92Z"/>
+    <path class="b" d="M302.82,583.55v-92.3c-4.17-5.9-7.96-12.09-11.33-18.54-5.03,10.45-11.19,20.19-18.4,29.01v63.17l-23.46-40.63c-4.49,3.36-9.23,6.46-14.19,9.25l37.65,65.21v333.42h29.73v-311.39l.27,.14,43.89-87.98c-4.89-3.01-9.56-6.28-14.02-9.8l-30.15,60.43Z"/>
+  </g>
+</svg>

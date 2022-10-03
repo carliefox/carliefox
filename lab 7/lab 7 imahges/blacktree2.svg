@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536.41 932.14">
+  <defs>
+    <style>
+      .b {
+        letter-spacing: 0em;
+      }
+
+      .c {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 159.73px;
+      }
+
+      .d {
+        fill: #fff;
+      }
+
+      .e {
+        letter-spacing: -.01em;
+      }
+
+      .f {
+        letter-spacing: 0em;
+      }
+
+      .g {
+        letter-spacing: 0em;
+      }
+
+      .h {
+        font-family: CopperplateGothic-Bold, 'Copperplate Gothic Bold';
+        font-size: 360.86px;
+      }
+
+      .i {
+        letter-spacing: 0em;
+      }
+
+      .j {
+        letter-spacing: 0em;
+      }
+
+      .k {
+        letter-spacing: .01em;
+      }
+
+      .l {
+        letter-spacing: 0em;
+      }
+
+      .m {
+        fill: #231f20;
+      }
+
+      .n {
+        letter-spacing: 0em;
+      }
+
+      .o {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <text/>
+  <text class="c" transform="translate(577.13 648.71) scale(1.1 1)"><tspan class="b" x="0" y="0">P</tspan><tspan class="n" x="84.18" y="0">ho</tspan><tspan class="j" x="260.53" y="0">t</tspan><tspan class="l" x="312.44" y="0">o</tspan><tspan class="g" x="400.13" y="0">g</tspan><tspan class="f" x="488.47" y="0">r</tspan><tspan x="539.9" y="0">ap</tspan><tspan class="e" x="707.78" y="0">h</tspan><tspan x="794.36" y="0">y</tspan></text>
+  <text/>
+  <text class="h" transform="translate(549.63 509.88) scale(.95 1)"><tspan class="k" x="0" y="0">T</tspan><tspan class="o" x="247.56" y="0">r</tspan><tspan class="i" x="496" y="0">ee</tspan></text>
+  <ellipse cx="125.11" cy="365.96" rx="112.79" ry="172.97" transform="translate(-139.87 84.24) rotate(-24.37)"/>
+  <ellipse cx="238.87" cy="222.79" rx="138.13" ry="222.79"/>
+  <ellipse cx="336.94" cy="359" rx="181.83" ry="121.02" transform="translate(-126.55 525.08) rotate(-66.53)"/>
+  <rect x="210.85" y="477.41" width="29.73" height="454.74"/>
+  <rect class="d" x="217.76" y="362.59" width="15.92" height="165.98"/>
+  <rect class="d" x="130.96" y="413.74" width="11.37" height="127.33" transform="translate(-269.98 192.37) rotate(-39)"/>
+  <rect class="d" x="275.74" y="424.37" width="11.37" height="127.33" transform="translate(483.61 -37.8) rotate(51)"/>
+  <rect class="m" x="196.13" y="521.76" width="13.64" height="99.27" transform="translate(-258.51 178.03) rotate(-30)"/>
+</svg>
