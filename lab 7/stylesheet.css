@@ -28,7 +28,7 @@ header{display: flex;
     flex-wrap: wrap;
     justify-content: center;
     flex-direction: row;
-   align-items: center;}
+   align-items: left;}
 
 nav{flex-basis: 100%;
 text-align: center;}
@@ -38,12 +38,11 @@ main{padding: 1rem;}
 main img{max-width: 100%;
 margin: .5rem 0;}
 
-.about-me h2{background-image: https://cs318.page/uploads/documents/me.jpg;/*Missing the url() */}
-.about-me h2{background-size: cover;
+.about-me h2{background-image: url(https://cs318.page/uploads/documents/me.jpg);
+background-size: cover;
     padding: 10rem 0 10rem 4rem;
-    text-shadow: 2px 2px 2px #0000008f;
-    text-shadow: #0000008f;/*delete this second text-shadow*/}
-
+    text-shadow: 2px 2px 2px #0000008f;}
+   
 
 .gallery h2{background-color: rgb(245, 245, 245);
     color: rgb(15, 15, 46);
