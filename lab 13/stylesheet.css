@@ -38,5 +38,38 @@ grid-row-start: 1;
 grid-row-end: 3;}
 .sidenav>a{display: block;
 text-align: right;}
+.sidenav>a{margin: 2rem;
+left: -10rem;}
+.sidenav>a:hover{left: 0;}
 }
+
+nav>a{transition-property: opacity;
+    transition-duration: .2s;
+    transition-timing-function: ease-in-out;}
+.sidenav>a {margin: 1rem 2rem;
+    position: relative;}
+.sidenav>a::before , .sidenav>a::after {position: absolute;
+width: 1.7rem;
+height: 2.5rem;
+top: -.6rem;}
+.sidenav>a::before{content: url(images/scroll-left.svg);
+    left: -1.6rem;}
+.sidenav>a::after{ content:url(images/scroll-right.svg):;
+right: -1.6rem;}
+.sidenav>a{transition: .2s ease-in-out; transition: left .5s ease-in-out;}
+section{padding-left: 5rem; position: relative;}
+section::before{position: absolute;
+width: 3rem;
+height: 3rem;
+left: 0; top: 0;}
+#odin::before{content: url(images/odin.svg)}
+
+
+
+
+
+
+
+
+
 
