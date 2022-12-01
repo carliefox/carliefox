@@ -52,9 +52,10 @@ nav>a{transition-property: opacity;
 width: 1.7rem;
 height: 2.5rem;
 top: -.6rem;}
+/*The folder name is incorrect for images*/
 .sidenav>a::before{content: url(images/scroll-left.svg);
     left: -1.6rem;}
-.sidenav>a::after{ content:url(images/scroll-right.svg):;
+.sidenav>a::after{ content:url(images/scroll-right.svg);
 right: -1.6rem;}
 .sidenav>a{transition: .2s ease-in-out; transition: left .5s ease-in-out;}
 section{padding-left: 5rem; position: relative;}
@@ -62,6 +63,10 @@ section::before{position: absolute;
 width: 3rem;
 height: 3rem;
 left: 0; top: 0;}
+/*your image below doesn't work for two reasons. 
+1. the folder name is wrong. Your folder is called "lab14 images"
+2. the image isn't even in the folder. The images for the next part were sent in an email that week.
+Once you have the images you will need to setup the icon for all ids except ragnarok and valhala.*/
 #odin::before{content: url(images/odin.svg)}
 
 

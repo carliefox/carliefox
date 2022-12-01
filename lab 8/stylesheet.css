@@ -78,7 +78,7 @@ section>h2{border-bottom: 2rem solid #e2512d;}
 
 @media (min-width:1000px){
 .animal-background{height: 100rem;
-top: 25%;}
+top: 25%;}/*should be -25%*/
 section>h2{padding: 23rem 0;
 font-size: 3rem;
 background-position: center}
