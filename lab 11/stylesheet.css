@@ -3,7 +3,7 @@ body{margin: 0;
     color: #fff;
     font-family: 'Montserrat', sans-serif;}
 header{background-color: #000;
-    font: yellowgreen;/*This should be color not font*/
+    color: yellowgreen;
     margin: 0;
     padding: 1rem;
     text-align: center;
@@ -21,7 +21,7 @@ fieldset{font-size: 1.5rem;
 form{background-color: rgba(0, 0, 0, .9);
     padding: 1rem 2rem;
     width: 50rem; 
-    max-width: 90% - calc(4rem);/*Still not correct. should be calc(90% - 4rem)*/
+    max-width: calc(90% - 4rem);
     margin: 1rem auto;}
 
 
