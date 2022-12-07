@@ -3,7 +3,7 @@ body{margin: 0;
     color: #fff;
     font-family: 'Montserrat', sans-serif;}
 header{background-color: #000;
-    font: yellowgreen;
+    font: yellowgreen;/*This should be color not font*/
     margin: 0;
     padding: 1rem;
     text-align: center;
@@ -21,7 +21,7 @@ fieldset{font-size: 1.5rem;
 form{background-color: rgba(0, 0, 0, .9);
     padding: 1rem 2rem;
     width: 50rem; 
-    max-width: 90% - calc(4rem);
+    max-width: 90% - calc(4rem);/*Still not correct. should be calc(90% - 4rem)*/
     margin: 1rem auto;}
 
 
@@ -69,11 +69,11 @@ color: white; outline: none;}
 :focus[type=color]{background-color: black; 
 color: white; outline: none;}
 
-input[type=reset]{font-family: 'Eater'cursive; font-size: 1.5rem; padding: 1rem; border-radius: 2rem;
+input[type=reset]{font-family: 'Eater',cursive; font-size: 1.5rem; padding: 1rem; border-radius: 2rem;
 border: 3px solid yellowgreen; margin: 1rem 2rem 0 0;
 background-color: black; color: yellowgreen;}
 
-input[type=submit]{font-family: 'Eater'cursive; font-size: 1.5rem; padding: 1rem; border-radius: 2rem;
+input[type=submit]{font-family: 'Eater',cursive; font-size: 1.5rem; padding: 1rem; border-radius: 2rem;
 border: 3px solid yellowgreen; margin: 1rem 2rem 0 0;
 background-color: yellowgreen;}
 
