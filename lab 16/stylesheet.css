@@ -1,7 +1,7 @@
 body{ background-color: #1c2541;
     color: #fff;
     font-family: Arial, Helvetica, sans-serif;
-    margin: ;}
+    margin: ;}/*margin:0;*/
 div {width: 450px;
 margin: auto;
 border: 3px solid #fff;}
@@ -33,7 +33,7 @@ padding: 3rem;
 border: 1px solid #5bc0b4;}
 header{ display: flex;
     justify-content: center;
-    align-items: space-evenly;
+    align-items: space-evenly;/*Align-items should be center*/
 background-color: #0b132b85;
 position: fixed;
 z-index: 1;
@@ -78,7 +78,7 @@ p{padding: 1rem 0;}
 .gallery h3{color: #1c2541;}
 .gallery img{padding: .5rem 0;}
 .routes div{padding: 1rem 0 2rem;}
-.contact{background-image: url(/Users/carliefox/Documents/cs 318/carliefox/lab 16/images /switzerland.jpeg);
+.contact{background-image: url(images/switzerland.jpeg);
 background-size: cover;
 background-position: bottom;}
 
@@ -106,11 +106,11 @@ footer{background-color: #5bc0b4;
 color: #0b132b;
 display: flex;
 justify-content: center;
-align-items: space-around;
+align-items: space-around;/*Align-items should be center*/
 justify-content: flex-end;
 }
 
-@media (min-width: 100px){
+@media (min-width: 100px){/*This should be 1000px*/
 .hamburger{display: none;}
 header nav{ position: static;
     background-color: unset;
@@ -123,7 +123,7 @@ display: inline-block;}
 header nav a:hover {color: #5bc0b4;
 text-decoration: underline;}
 
-.social{padding: right 2rem;}
+.social{padding: right 2rem;}/*This should be padding-right:2rem;*/
 
 h1{margin-left: -16rem;}
 
@@ -138,7 +138,7 @@ margin: 1rem auto;
 display: flex;
 flex-wrap: wrap;
 justify-content: space-around;
-align-items: space-between;}
+align-items: space-between;}/*Align-items should be center*/
 
 .gallery img{ display: block;
     width: 31%;
@@ -154,7 +154,8 @@ grid-gap:1rem;}
 
 .routes h3{grid-area: row;}
  
-form{max-wdith:500px;
+form{
+    max-wdith:500px;/*width is spelled wrong*/
 margin: 1rem auto;}
 }
 
